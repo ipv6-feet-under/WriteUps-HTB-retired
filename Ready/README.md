@@ -28,7 +28,7 @@ The exploit will create a project and do some magic to get a shell.
 root:
 -------------------
 
-to get a better shell we can use:
+To get a better shell we can use:
 ```
 python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
