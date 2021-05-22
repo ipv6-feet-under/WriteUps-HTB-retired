@@ -44,4 +44,4 @@ quite enough:
 ```
 An other way: https://book.hacktricks.xyz/linux-unix/privilege-escalation/docker-breakout
 
-Now we escaped the docker ant rooted the machine.
+Now we escaped the docker and rooted the machine.
