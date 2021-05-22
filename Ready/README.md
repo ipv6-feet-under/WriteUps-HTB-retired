@@ -11,7 +11,7 @@ PORT     STATE SERVICE
 On this machine we found open ports at 22 (SSH) and 5080. Visting the website on port 5080 we are given a Sign In Page of GitLab.
 We can create a new User.
 
-Visitng the help page we find the version number with the hint to update asap:
+On the help page we find the version number with the hint to update asap:
 
 ![gitlabhelp.png](images/gitlabhelp.png)
 
