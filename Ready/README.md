@@ -1,4 +1,4 @@
-Ready
+![Ready](images/banner.png)
 ==================
 ```
 Nmap scan report for 10.10.10.220
