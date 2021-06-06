@@ -11,7 +11,7 @@ On port 5000 we are welcomed by this page:
 ![website](website.png)
 
 The payloads tool says: 'venom it up - gen rev tcp meterpreter bins' so it is propably msfvenom doing the work here.
-There is also the possibility to upload template files and android as the OS. The template file threw me a little off because I haven't seen that for msfvenom before so I research template files, msfvenom and android and find a popular vulnerability which is described [here](https://github.com/justinsteven/advisories/blob/master/2020_metasploit_msfvenom_apk_template_cmdi.md).
+There is also the possibility to upload template files and to select android as the OS. The template file threw me a little off because I haven't seen that for msfvenom before so I research template files, msfvenom and android and find a popular vulnerability which is described [here](https://github.com/justinsteven/advisories/blob/master/2020_metasploit_msfvenom_apk_template_cmdi.md).
 
 ## User
 
